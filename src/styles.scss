@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #F3EFE0;
+}
+
+html {
+  background: rgb(11,158,217);
+  background: linear-gradient(135deg, rgba(11,158,217,1) 0%, rgba(7,199,242,1) 100%);
+}
